@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header #logo{
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+header #title{
+    display: inline-block;
+    font-size: 50px;
+    font-style:italic;
+    vertical-align: bottom;
+}
