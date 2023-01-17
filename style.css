@@ -30,3 +30,16 @@ nav .second_button{
     background-color: white;
     color: lightgray;
 }
+
+hr{
+    margin-top: 10px;
+}
+
+h3{
+    display: inline-block;
+}
+
+#check{
+    color: green;
+    border-radius: 5px;
+}
