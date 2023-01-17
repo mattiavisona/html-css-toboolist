@@ -41,13 +41,24 @@ ul #list{
 
 .check{
     color: green;
-    border:50px,solid,green;
+    border:1px solid green;
     border-radius: 50%;
+    padding: 3px;
+}
+
+.size{
+    font-size: 30px;
 }
 
 
 .color{
     background-color:#47adf1;
-    border-radius: 14px;
+    border-radius: 45px;
     padding: 9px;
+    color: white;
+    margin-left: 10px;
+}
+
+ul{
+    margin-top: 65px;
 }
