@@ -35,11 +35,19 @@ hr{
     margin-top: 10px;
 }
 
-h3{
-    display: inline-block;
+ul #list{
+    font-size: 25px;
 }
 
-#check{
+.check{
     color: green;
-    border-radius: 5px;
+    border:50px,solid,green;
+    border-radius: 50%;
+}
+
+
+.color{
+    background-color:#47adf1;
+    border-radius: 14px;
+    padding: 9px;
 }
