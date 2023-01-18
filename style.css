@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+.container{
+    background-color: #f5f7f8;
+    padding: 40px 20px 0 28px;
+
+}
+
+#todo-ui{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+}
+
 header #logo{
     padding-left: 25px;
     padding-top: 20px;
@@ -24,6 +36,8 @@ nav #button{
 nav .first_button{
     background-color: #47adf1;
     color: white;
+    margin-top: 30px;
+    margin-left: 50px;
 }
 
 nav .second_button{
@@ -34,9 +48,18 @@ nav .second_button{
 hr{
     margin-top: 10px;
 }
+ 
+ul{
+    list-style-type: none;
+}
 
 ul #list{
     font-size: 25px;
+}
+
+.margin_left{
+    margin-left: 100px;
+
 }
 
 .check{
